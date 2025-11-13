@@ -18,9 +18,8 @@ Permite gerar relatórios que incluem Valor Bruto, Comissão, Despesas, e Valor 
 ## 💻 Tecnologias Utilizadas
 
 - **Python**
+- **Tkinter**
 - IDE recomendada: **PyCharm**
-
----
 
 ## ▶️ Como Executar
 
@@ -28,3 +27,4 @@ Permite gerar relatórios que incluem Valor Bruto, Comissão, Despesas, e Valor 
 
 ```bash
 git clone https://github.com/kennyangit/PROJECT355.git
+
